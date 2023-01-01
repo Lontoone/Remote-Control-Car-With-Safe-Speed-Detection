@@ -17,6 +17,8 @@ Because bluetooth is more expensive compares to wifi (esp32 vs esp8266). So I us
 
 ![Communication System](https://i.imgur.com/a0hlWpe.png)
 
+## Safe speed formula is refer to [this](https://mille.in/drift/).
+
 ---
 ## Tutorial
 - [Remoter](https://lontoone-5070b.web.app/article/HIVDFstVY6195KTjNR11)
